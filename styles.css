@@ -1,2 +1,4 @@
 
-/* Your CSS Code here. */
+#game-container {
+            display: block;
+        }
